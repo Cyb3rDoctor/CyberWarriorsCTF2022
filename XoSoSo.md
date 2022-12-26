@@ -4,6 +4,12 @@
 
 ![Challenge](https://user-images.githubusercontent.com/70543460/204134551-e2767563-e04c-4af5-8311-52203013d185.png)
 
+## Quick Navigation:
+
+- **[(1) Testing the web application](https://github.com/Cyb3rDoctor/CyberWarriorsCTF2022/blob/main/XoSoSo.md#1-testing-the-web-application)**
+- **[(2) HTML Injection](https://github.com/Cyb3rDoctor/CyberWarriorsCTF2022/blob/main/XoSoSo.md#2-html-injection)**
+- **[(3) XSS - CSP Detection](https://github.com/Cyb3rDoctor/CyberWarriorsCTF2022/blob/main/XoSoSo.md#3-xss---csp-detection)**
+- **[(4) XSS - Bypassing CSP and completing the challenge](https://github.com/Cyb3rDoctor/CyberWarriorsCTF2022/blob/main/XoSoSo.md#4-xss---bypassing-csp-and-completing-the-challenge)**
 
 ## Solution:
 
